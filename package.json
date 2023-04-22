@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "build:pkg": "pnpm run prepare -r"
+  },
+  "packageManager": "pnpm@7.0.0",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
