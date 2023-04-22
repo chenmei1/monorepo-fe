@@ -30,8 +30,6 @@ Preview:
 $ pnpm --filter "node-app" start
 ```
 
-![](https://user-images.githubusercontent.com/13595509/146680754-8b6798f4-fa4f-43ff-929e-911e1343ef88.png)
-
 
 ## Packages Development
 

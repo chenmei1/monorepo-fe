@@ -1,5 +1,4 @@
 const { sum, fibonacci } = require('@infras/shared/utils');
-const { sum: rsSum, fibonacci: rsFibonacci } = require('@infras/native');
 const { Component } = require('@infras/ui/react');
 const React = require('react');
 const ReactDOMServer = require('react-dom/server');

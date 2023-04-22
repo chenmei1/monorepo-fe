@@ -1,5 +1,4 @@
 import { sum, fibonacci } from '@infras/shared/utils';
-import { sum as rsSum, fibonacci as rsFibonacci } from '@infras/native';
 
 console.log('=====ESM Call=====')
 console.time("Node.js time");
